@@ -1,5 +1,5 @@
 # Topological-Data-Analysis
-A few demos for persistence homology using Giotto and quantum circuits using Qiskit and TN.
+Demos for persistence homology using Giotto and quantum circuits using Qiskit and TN.
 
 Persistence_Homology_Demo1 - Persistence diagrams for differen simple shapes: multiple points, cirqles, squares
 Persistence_Homology_Demo2 - Persistence diagrams for n-dimensional cubes. Persistence Entropy
