@@ -14,5 +14,7 @@ Demos for persistence homology using Giotto and quantum circuits using Qiskit an
 **MNIST_NN** - classification images from MNIST dataset using topological features and KERAS neural network.
 
 **MNIST_RandomForest** - classification images from MNIST dataset using topological features and Random Forest algorithm.
+
 **Time Series Homology** - Persistence diagrams and other characteristics demo for different time series using Takens Embedding
+
 **Time Series Embedding** - Analyse similarity of different time series using PairWise distance
